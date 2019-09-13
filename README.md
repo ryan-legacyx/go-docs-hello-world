@@ -1,3 +1,13 @@
+---
+page_type: sample
+languages:
+- go
+products:
+- azure
+description: "This sample demonstrates a Hello World Go app for App Service Linux: Web app for containers"
+urlFragment: go-docs-hello-world
+---
+
 # Go Hello World
 
 This sample demonstrates a Hello World Go app for App Service Linux: Web app for containers
